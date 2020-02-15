@@ -1,0 +1,19 @@
+{
+  "name": "sudokuwithtests",
+  "version": "1.0.0",
+  "description": "A simple sudoku validator with tests",
+  "main": "sudoku.js",
+  "scripts": {
+    "test": "mocha \"src/**/*.spec.js\"",
+    "test-watch": "npm run test -- -w"
+  },
+  "author": "Aleks S",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mocha": "^7.0.1",
+    "@types/node": "^13.7.1",
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1",
+    "testem": "^3.0.2"
+  }
+}
