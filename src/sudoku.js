@@ -62,14 +62,6 @@ function sudokuIsValid(puzzle) {
 }
 
 
-//sudokuIsValid(puzzle);
-// => true
-
-
-//sudokuIsValid(p8zzle);
-// => false
-
-
 module.exports = {
   getRow,
   getColumn,
