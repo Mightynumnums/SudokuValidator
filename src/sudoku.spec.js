@@ -7,7 +7,6 @@ const {
   sudokuIsValid
 } = require('./sudoku.js')
 
-
 const board = [
       [ 8,9,5,   7,4,2,   1,3,6 ],
       [ 2,7,1,   9,6,3,   4,8,5 ],
