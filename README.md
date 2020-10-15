@@ -1,6 +1,6 @@
-Sudoku Validator is a simple list of functions to validate a sudoku puzzle.
+## Sudoku Validator is a simple list of functions to validate a sudoku puzzle.
 
 -   To start:
-    -   npm i
+    `npm i`
 -   To run tests:
-    -   test
+     `npm test`
